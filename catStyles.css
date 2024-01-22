@@ -1,0 +1,60 @@
+/* App.css (or any other CSS file you use) */
+.App {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  button {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    margin-top: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 20px;
+  }
+  
+  .fancy-border {
+    border: 2px solid #007BFF;
+    padding: 10px;
+    border-radius: 8px;
+  }
+  
+  /* CatListItem.css (or any other CSS file for CatListItem) */
+  div {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin-bottom: 15px;
+  }
+  
+  button {
+    background-color: #dc3545;
+    color: #fff;
+    padding: 8px 12px;
+    font-size: 14px;
+    cursor: pointer;
+    border: none;
+  }
+  
+  /* WatchCount.css (or any other CSS file for WatchCount) */
+  div {
+    margin-top: 15px;
+    font-size: 18px;
+    color: #28a745;
+  }
+  
